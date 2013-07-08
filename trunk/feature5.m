@@ -1,6 +1,7 @@
 clc
 
 % input dataset of 10 features
+%Tested
 %R-mean,G-mean,B-mean,totalmean,*area,perimeter,*ratiotest,compactnesstest,centroid
 x=[0.4584 0.3888 0.1931 0.3468 847.6123 391.8409 146.8726 123.8073;
    0.5760 0.4186 0.1770 0.3905 681.5706 567.0229 127.1033 107.5058; 
